@@ -11,7 +11,7 @@ angular.module('cyViewerApp')
         var NETWORK_SECTION_ID = '#network';
 
         // Default Visual Style name
-        var DEFAULT_VISUAL_STYLE_NAME = 'default';
+        var DEFAULT_VISUAL_STYLE_NAME = 'Marquee';
 
         var visualStyleFile;
         var networkData;
