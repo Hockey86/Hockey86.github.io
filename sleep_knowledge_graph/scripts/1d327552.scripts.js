@@ -91,7 +91,7 @@ angular.module("cyViewerApp", ["ngCookies", "ngResource", "ngSanitize", "ngRoute
     }
     var n, o,
         q = "#network",
-        r = "default";
+        r = "Marquee";
     a.LAYOUTS = ["preset", "cola", "random", "grid", "circle", "concentric", "breadthfirst", "cose"], a.networks = {}, a.currentVS = null, a.visualStyles = [], a.visualStyleNames = [], a.networkNames = [], a.currentNetworkData = null, a.browserState = {
         show: !1
     }, a.overlayState = {
